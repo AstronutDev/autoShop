@@ -1,0 +1,10 @@
+body {
+  background: #fbfbf8 !important;
+}
+
+.card-img {
+  background: url('/images/uploads/placeholder.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+}
